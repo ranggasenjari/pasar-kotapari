@@ -1,0 +1,48 @@
+Mikem;Rengginang;Dsn. Dondong Timur I Stabat Lama Barat;1213080009;1213080
+Roslina;Rengginang;Dsn. Dondong Timur I Stabat Lama Barat;1213080009;1213080
+Suyanti;Keripik;Dsn. Paya Pinang Stabat Lama Barat;1213080009;1213080
+Rudi Hartono;Keripik;Dsn. IV Sumber Rejo;1213080006;1213080
+Siti;Keripik;Dsn. I Bukit Gantung;1213080012;1213080
+Supiyani;Keripik;Dsn. I Bukit Gantung;1213080012;1213080
+Hardi;Keripik;Dsn. V Stungkit;1213080014;1213080
+Khairul Bahri;Tempe;Dsn. IV Stungkit;1213080014;1213080
+Suef Syahputra;Tempe;Dsn. IV Stungkit;1213080014;1213080
+Purwadi;Tempe;Dsn. IV Stungkit;1213080014;1213080
+Zulfirman;Tempe;Dsn. Dondong Timur II Stabat Lama Barat;1213080009;1213080
+Misdi;Tempe;Dsn. VII Paya Kandis;;1213080
+Sartik;Tempe;Dsn. V PJKA Gohor Lama;1213080007;1213080
+T. Nasarudin;Halua;Dsn. Pantai Luas Stabat Lama Barat;1213080009;1213080
+Nasyah;Kue;Dsn. VIII Psr Hulu;;1213080
+Sutini;Bakso;Dsn. Dondong Timur II Stabat Lama Barat;1213080009;1213080
+Sumiatik;Peyek Kacang;Dsn. Paya Pinang Stabat Lama Barat;1213080009;1213080
+Ame;Kue Bawang;Dsn.  I Bukit Gantung;1213080012;1213080
+Suherlin;Roti;Dsn. II Sidomaju Tahun XX Kebun Balok;1213080005;1213080
+Yusto;Tahu;Dsn. II Stungkit;1213080014;1213080
+Suparno;Tahu;Dsn. IV Stungkit;1213080014;1213080
+Darsinah;mie;Dsn. VIII Bukit Ayu Batu VI Kebun Balok;1213080005;1213080
+Suriadi;Jeruji;Dsn. Paya Pinang Stabat Lama Barat;1213080009;1213080
+Wagianto;Jerjak Besi;Dsn. Mekar Sari Stabat Lama Barat;1213080009;1213080
+Fadlan;Rotan;Dsn. Dondong Sejati Jentera Stabat;1213080013;1213080
+Sofyan;Jahit;Dsn. VIII Psr Hulu Stabat Lama;1213080008;1213080
+Kliyem;Jahit;Dsn. VIII Psr Hulu Stabat Lama;1213080008;1213080
+Sulastin;Jahit;Dsn. II VII Paya Kandis Stabat Lama;1213080008;1213080
+Rahyu;Penjahit;Gergas;1213080002;1213080
+Sugiani;Penjahit;Gergas;1213080002;1213080
+Paiman;Lemari;Dsn. X Sidorejo Barat Stabat Lama;1213080008;1213080
+Iwan;Lemari;Dsn. X Sidorejo Barat Stabat Lama;1213080008;1213080
+Listri Asmo;Jerjak Besi;Dsn. VII Paya Kandis;;1213080
+Liswelasdo;Jerjak Besi;Dsn. VII Paya Kandis;;1213080
+Wahito;Mebel;Dsn. Dondong Timur II Stabat Lama Barat;1213080009;1213080
+Abdul Hakim;Mebel;Dsn. Ampera II Stabat Lama Barat;1213080009;1213080
+Sopian;Mebel;Dsn. I Pertumbukan;1213080010;1213080
+Paidin;Tikar Purun;Dsn. VI Paya Redas I;1213080012;1213080
+Idris;Tikar Purun;Dsn. II Paya Lumpur;;1213080
+Yudi;Kusen/Pintu;Dsn. I Paya Tusam;1213080011;1213080
+Suriono;Kusen/Pintu;Dsn. IV Tj. Belibis Kebun Balok;1213080005;1213080
+Ahmad Isanudin;Kusen/Pintu;Dsn. XIV Paya Satu Basilam BL;1213080001;1213080
+Boiman;Kusen/Pintu;Dsn. V Karya Jasa;;1213080
+Kastori;Tepas;Dsn. V PJKA Gohor Lama;1213080007;1213080
+Puad Harun;Tepas;Dsn. II Pertumbukan;1213080010;1213080
+Mahyuti;Atap Rumbia;Dsn. I Pertumbukan;1213080010;1213080
+Ika Ramadhani;Souvenir;Dsn. VII Masjid Kebun Balok;1213080005;1213080
+Supardi;Pisau/Parang;Dsn. VI Ladangan Kebun Balok;1213080005;1213080

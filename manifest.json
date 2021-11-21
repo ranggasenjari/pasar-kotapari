@@ -1,0 +1,24 @@
+{"dir" : "ltr",
+    "lang" : "Indonesian",
+    "name" : "ePasar Kabupaten Langkat",
+    "scope" : "/",
+    "display" : "standalone",
+    "start_url" : "https://pasar.langkatkab.go.id/",
+    "short_name" : "ePasar Langkat",
+    "theme_color" : "#3c8dbc",
+    "description" : "Layanan Pemasaran Produk Lokal Langkat",
+    "orientation" : "any",
+    "background_color" : "transparent",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+        {
+            "src": "https://pasar.langkatkab.go.id/rsc/img/epasar192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://pasar.langkatkab.go.id/rsc/img/epasar512.png",
+            "sizes": "512x512"
+        }
+    ]}
