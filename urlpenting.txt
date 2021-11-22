@@ -1,7 +1,0 @@
-https://github.com/ericbarnes/CodeIgniter-Slug-Library
-
-https://stackoverflow.com/questions/15367197/how-to-set-dynamic-route-to-use-slug-in-codeigniter
-
-https://css-tricks.com/scroll-fix-content/
-
-http://www.hargasumut.org/tabel-harga-komoditi/10/0.html
